@@ -1,0 +1,2 @@
+# SlotMachine
+Slotmachine in c++
